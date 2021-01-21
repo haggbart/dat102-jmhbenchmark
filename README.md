@@ -30,7 +30,7 @@ public class YtelseEksempel {
 }
 ```
 
-Resultater med konfidensinterval på 99.9%: 
+Resultater med konfidensintervall på 99.9%: 
 ```
 Benchmark                      (n)  Mode  Cnt    Score   Error  Units
 YtelseEksempel.testTid     1000000  avgt    4    0.390 ± 0.001  ms/op
